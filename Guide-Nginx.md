@@ -1,4 +1,4 @@
-# Guide: How to setup Nginx on iFlytek Microcube within 10 minutes to start enjoy NextSDYZ on your iFlytek tablet
+# Guide: How to start enjoy NextSDYZ on your iFlytek tablet within 10 minutes
 *For network technology learning and communication purposes ONLY*
 
 ## 1.Download Nginx to the computer
