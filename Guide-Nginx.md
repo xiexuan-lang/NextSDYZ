@@ -1,4 +1,4 @@
-# Guide: How to start enjoy NextSDYZ on your iFlytek tablet within 10 minutes
+# Guide: How to start enjoying NextSDYZ on your iFlytek tablet within 10 minutes
 *For network technology learning and communication purposes ONLY*
 
 ## 1.Download Nginx to the computer
