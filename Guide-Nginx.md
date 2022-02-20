@@ -62,7 +62,7 @@ Change WLAN's Metric to "5", and LAN's Metric to "10".
 ## 4.Setup cron job for Nginx
 Let it run **15 minutes after** user login, because iFlytek Class Service will always kill Nginx if Nginx starts before it.
 
-Don't forget to set the 
+Don't forget to set the start path!
 
 ![image](https://user-images.githubusercontent.com/64564727/154861023-a293548e-f156-4163-84cd-ea945bfdb015.png)
 
