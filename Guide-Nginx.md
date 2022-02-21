@@ -27,7 +27,7 @@ http {
 
     server {
 
-    listen 80;
+    listen 9000;
     server_name sdyz.huangyinhao.top:9000;
 
     proxy_set_header Host $host;
